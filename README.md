@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, welcome to my profile.
+Here I keep my projects, ideas and exercises in several programming languages, I use some FrameWorks and libraries that help me in the execution of the Softwares.
+
+I am in the process of professional and personal growth, always looking for new ideas and methodologies, I try to study every day, but here among us, a self-respecting Dev, is in eternal learning.👋
 
 <p align="center">
 <img src="https://media.giphy.com/media/U16eJ5dFcfiolA5u85/giphy.gif" width="300" height="200">
