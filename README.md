@@ -6,7 +6,7 @@
 
 <p>I am in the process of professional and personal growth, always looking for new ideas and methodologies, I try to study every day.</p>
 <p align="">
-<img src="https://media.giphy.com/media/U16eJ5dFcfiolA5u85/giphy.gif" width="150" height="100">
+<img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="150" height="100">
 <p>
 <p>But here among us, a self-respecting Dev, is in eternal learning.</p>
 
