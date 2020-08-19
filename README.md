@@ -1,6 +1,6 @@
 <h2 align="center">Hello, welcome to my profile.</h2>
 <p align="center">
-<img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="280" height="200">
+<img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="320" height="200">
 <p>
 <p>Here I keep my projects, ideas and exercises in several programming languages, I use some FrameWorks and libraries that help me in the execution of the Softwares.</p>
 <p align="center">
