@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/5b5CuS5enNTxhwAkSD/giphy.gif" width="150" height="100">
 <p>
-<p>I am in the process of professional and personal growth, always looking for new ideas and methodologies, I try to study every day.</p>
+<p>I'm in the process of professional and personal growth, always looking for new ideas and methodologies, I try to study every day.</p>
 <p align="center">
 <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="150" height="100">
 <p>
